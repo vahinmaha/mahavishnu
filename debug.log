@@ -1,0 +1,9 @@
+[0328/203447.519:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir4020_1558471274\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0328/203447.519:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir4020_1558471274\Crashpad\reports\4e131dbc-8b0b-4685-8102-de0cac8729d9.dmp: The system cannot find the path specified. (0x3)
+[0328/203447.519:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0403/083554.355:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir6968_1461202400\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0403/083554.355:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir6968_1461202400\Crashpad\reports\9ac3605f-d3e2-46db-a052-58d1c4fd9666.dmp: The system cannot find the path specified. (0x3)
+[0403/083554.356:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0414/095321.188:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir3492_2091262574\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0414/095321.218:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Tahir\AppData\Local\Temp\scoped_dir3492_2091262574\Crashpad\reports\de78ca20-e384-4b84-8d1c-ea4eb9107e4d.dmp: The system cannot find the path specified. (0x3)
+[0414/095321.218:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
